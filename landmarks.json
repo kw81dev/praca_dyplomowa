@@ -1,0 +1,320 @@
+{
+  "city": "Szczecin",
+  "landmarks": [
+    {
+      "name": "Pasztecik",
+      "long_name": "Pasztecik",
+      "id": 0,
+      "pictures": 50,
+      "folder_name": "00"
+    },
+    {
+      "name": "Dworzec Główny budynek",
+      "long_name": "Dworzec Główny",
+      "id": 1,
+      "pictures": 30,
+      "folder_name": "01"
+    },
+    {
+      "name": "Gmach Poczty ul Dworcowa",
+      "long_name": "Gmach Poczty",
+      "id": 2,
+      "pictures": 30,
+      "folder_name": "02"
+    },
+    {
+      "name": "Koszary Bramy Ślimaczej",
+      "long_name": "Koszary Bramy Ślimaczej",
+      "id": 3,
+      "pictures": 20,
+      "folder_name": "03"
+    },
+    {
+      "name": "Kościół Jana Ewangelisty",
+      "long_name": "Kościół pw. Św. Jana Ewangelisty",
+      "id": 4,
+      "pictures": 30,
+      "folder_name": "04"
+    },
+    {
+      "name": "Most Długi",
+      "long_name": "Most Długi",
+      "id": 5,
+      "pictures": 100,
+      "folder_name": "05"
+    },
+    {
+      "name": "Ratusz Staromiejski",
+      "long_name": "Ratusz Staromiejski",
+      "id": 6,
+      "pictures": 35,
+      "folder_name": "06"
+    },
+    {
+      "name": "Kamienica Loitzów",
+      "long_name": "Kamienica Loitzów",
+      "id": 7,
+      "pictures": 30,
+      "folder_name": "07"
+    },
+    {
+      "name": "Zamek Książąt Pomorskich",
+      "long_name": "Zamek Książąt Pomorskich",
+      "id": 8,
+      "pictures": 100,
+      "folder_name": "08"
+    },
+    {
+      "name": "Stajnia Książęca",
+      "long_name": "Stajnia i Ujeżdżalnia Książęca",
+      "id": 9,
+      "pictures": 35,
+      "folder_name": "09"
+    },
+    {
+      "name": "Baszta Siedmiu Płaszczy",
+      "long_name": "Baszta Siedmiu Płaszczy",
+      "id": 10,
+      "pictures": 40,
+      "folder_name": "10"
+    },
+    {
+      "name": "Akademia Morska budynek",
+      "long_name": "Akademia Morska",
+      "id": 11,
+      "pictures": 30,
+      "folder_name": "11"
+    },
+    {
+      "name": "Muzeum Narodowe",
+      "long_name": "Muzeum Narodowe",
+      "id": 12,
+      "pictures": 40,
+      "folder_name": "12"
+    },
+    {
+      "name": "Urząd Wojewódzki na Wałach",
+      "long_name": "Urząd Wojewódzki",
+      "id": 13,
+      "pictures": 40,
+      "folder_name": "13"
+    },
+    {
+      "name": "Pomnik Adama Mickiewicza",
+      "long_name": "Pomnik Adama Mickiewicza",
+      "id": 14,
+      "pictures": 35,
+      "folder_name": "14"
+    },
+    {
+      "name": "Kompleks PAZIM",
+      "long_name": "Kompleks PAZIM",
+      "id": 15,
+      "pictures": 40,
+      "folder_name": "15"
+    },
+    {
+      "name": "Brama Królewska",
+      "long_name": "Brama Królewska",
+      "id": 16,
+      "pictures": 40,
+      "folder_name": "16"
+    },
+    {
+      "name": "Centrum Dialogu Przełomy",
+      "long_name": "Centrum Dialogu Przełomy",
+      "id": 17,
+      "pictures": 50,
+      "folder_name": "17"
+    },
+    {
+      "name": "Filharmonia Szczecińska budynek",
+      "long_name": "Filharmonia",
+      "id": 18,
+      "pictures": 100,
+      "folder_name": "18"
+    },
+    {
+      "name": "Komenda Wojewódzka Policji",
+      "long_name": "Komenda Wojewódzka Policji",
+      "id": 19,
+      "pictures": 40,
+      "folder_name": "19"
+    },
+    {
+      "name": "Kościół Św Piotra i Pawła",
+      "long_name": "Kościół Św Piotra i Pawła",
+      "id": 20,
+      "pictures": 50,
+      "folder_name": "20"
+    },
+    {
+      "name": "Domki Profesorskie",
+      "long_name": "Domki Profesorskie",
+      "id": 21,
+      "pictures": 40,
+      "folder_name": "21"
+    },
+    {
+      "name": "Bazylika Archikatedralna pw. św. Jakuba",
+      "long_name": "Bazylika Archikatedralna pw. św. Jakuba",
+      "id": 22,
+      "pictures": 100,
+      "folder_name": "22"
+    },
+    {
+      "name": "Posąg Flory",
+      "long_name": "Posąg Flory",
+      "id": 23,
+      "pictures": 40,
+      "folder_name": "23"
+    },
+    {
+      "name": "Fontanna z orłem",
+      "long_name": "Fontanna z orłem",
+      "id": 24,
+      "pictures": 50,
+      "folder_name": "24"
+    },
+    {
+      "name": "Pałac pod Globusem",
+      "long_name": "Pałac pod Globusem",
+      "id": 25,
+      "pictures": 40,
+      "folder_name": "25"
+    },
+    {
+      "name": "Pałac Velthusena",
+      "long_name": "Pałac Velthusena",
+      "id": 26,
+      "pictures": 35,
+      "folder_name": "26"
+    },
+    {
+      "name": "Pałac Sejmu Stanów Pomorskich",
+      "long_name": "Muzeum Narodowe",
+      "id": 27,
+      "pictures": 30,
+      "folder_name": "27"
+    },
+    {
+      "name": "Gmach Banku Ziemstwa Pomorskiego",
+      "long_name": "Gmach Banku Ziemstwa Pomorskiego",
+      "id": 28,
+      "pictures": 40,
+      "folder_name": "28"
+    },
+    {
+      "name": "Gmach Urzędu Pocztowego nr 1",
+      "long_name": "Gmach Pruskiej Poczty Królewskiej",
+      "id": 29,
+      "pictures": 40,
+      "folder_name": "29"
+    },
+    {
+      "name": "Kościół pw. św. Jana Chrzciciela",
+      "long_name": "Kościół pw. św. Jana Chrzciciela",
+      "id": 30,
+      "pictures": 60,
+      "folder_name": "30"
+    },
+    {
+      "name": "Kościół Najświętszego Serca Pana Jezusa",
+      "long_name": "Kościół Najświętszego Serca Pana Jezusa",
+      "id": 31,
+      "pictures": 40,
+      "folder_name": "31"
+    },
+    {
+      "name": "Kościół Garnizonowy św. Wojciecha",
+      "long_name": "Kościół Garnizonowy św. Wojciecha",
+      "id": 32,
+      "pictures": 50,
+      "folder_name": "32"
+    },
+    {
+      "name": "Pomnik Kornela Ujejskiego",
+      "long_name": "Pomnik Kornela Ujejskiego",
+      "id": 33,
+      "pictures": 35,
+      "folder_name": "33"
+    },
+    {
+      "name": "Brama Portowa",
+      "long_name": "Brama Portowa",
+      "id": 34,
+      "pictures": 40,
+      "folder_name": "34"
+    },
+    {
+      "name": "Czerwony Ratusz (Nowy Ratusz)",
+      "long_name": "Czerwony Ratusz",
+      "id": 35,
+      "pictures": 50,
+      "folder_name": "35"
+    },
+    {
+      "name": "Fontanna z kotwicą",
+      "long_name": "Fontanna z kotwicą",
+      "id": 36,
+      "pictures": 40,
+      "folder_name": "36"
+    },
+    {
+      "name": "Pomnik Ofiar Grudnia 1970",
+      "long_name": "Pomnik Ofiar Grudnia 1970",
+      "id": 37,
+      "pictures": 30,
+      "folder_name": "37"
+    },
+    {
+      "name": "Pomnik Colleoniego",
+      "long_name": "Pomnik Colleoniego",
+      "id": 38,
+      "pictures": 50,
+      "folder_name": "38"
+    },
+    {
+      "name": "Gmach Urzędu Miasta Szczecin",
+      "long_name": "Gmach Urzędu Miasta Szczecin",
+      "id": 39,
+      "pictures": 50,
+      "folder_name": "39"
+    },
+    {
+      "name": "Pomnik Czynu Polaków",
+      "long_name": "Pomnik Czynu Polaków",
+      "id": 40,
+      "pictures": 50,
+      "folder_name": "40"
+    },
+    {
+      "name": "Amfiteatr",
+      "long_name": "Amfiteatr",
+      "id": 41,
+      "pictures": 50,
+      "folder_name": "41"
+    },
+    {
+      "name": "Pomnik Papieża Jana Pawła II",
+      "long_name": "Pomnik Papieża Jana Pawła II",
+      "id": 42,
+      "pictures": 40,
+      "folder_name": "42"
+    },
+    {
+      "name": "Dźwigi Portowe",
+      "long_name": "Dźwigi Portowe",
+      "id": 43,
+      "pictures": 50,
+      "folder_name": "43"
+    },
+    {
+      "name": "Wały Chrobrego",
+      "long_name": "Wały Chrobrego",
+      "id": 44,
+      "pictures": 100,
+      "folder_name": "44"
+    }
+  ]
+}
